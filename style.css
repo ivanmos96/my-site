@@ -176,7 +176,7 @@ body {
 }
 
 .page-footer a {
-  margin-left: 56px;
+  margin: auto;
   color: inherit;
   text-decoration: none;
   background-repeat: no-repeat;
